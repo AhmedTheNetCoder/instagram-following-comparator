@@ -31,7 +31,7 @@ The script connects to your browser via Chrome's debugging protocol. You stay in
 ### 1. Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/instagram-following-comparator.git
+git clone https://github.com/AhmedTheNetCoder/instagram-following-comparator.git
 cd instagram-following-comparator
 pip install -r requirements.txt
 ```
