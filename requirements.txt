@@ -1,0 +1,9 @@
+# Instagram Following Scraper - Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core dependency: Browser automation
+selenium>=4.15.0
+
+# Note: You also need ChromeDriver that matches your Chrome version
+# Option 1 (Recommended): Selenium 4.6+ auto-downloads the correct driver
+# Option 2: Manual install from https://chromedriver.chromium.org/downloads

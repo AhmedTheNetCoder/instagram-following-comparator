@@ -1,0 +1,27 @@
+# Output files (contain personal data)
+*.json
+*.csv
+!package.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp Chrome profile
+chrome_debug/
